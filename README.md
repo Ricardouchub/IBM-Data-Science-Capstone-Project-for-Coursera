@@ -7,8 +7,7 @@ This repository contains the final project for the IBM Data Science Professional
 
 To achieve this, I gathered public information about SpaceX launches, created interactive dashboards for the team, and built a machine learning model to predict the successful landing of the first stage. This data-driven approach allows Space Y to make informed decisions in a competitive market.
 
-### Key Questions Addressed:
-* What is a competitive launch price for a new rocket company?
+### Key Question:
 * Can we predict if SpaceX will reuse the first stage of their rockets?
 
 ---

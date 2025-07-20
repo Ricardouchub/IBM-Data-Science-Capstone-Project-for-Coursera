@@ -36,7 +36,7 @@ To achieve this, I gathered public information about SpaceX launches, created in
 * **Pandas**: For data manipulation and analysis.
 * **Plotly**: Creating interactive data visualizations and dashboards.
 * **Machine Learning Methods**: Applying classification algorithms to predict launch outcomes.
-* * **GitHub**: For version control and project management.
+* **GitHub**: For version control and project management.
 
 ---
 

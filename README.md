@@ -34,7 +34,7 @@ To achieve this, I gathered public information about SpaceX launches, created in
 ### Technical
 * **Beatifulsoup and requests**: Extracting data from websites.
 * **Pandas**: For data manipulation and analysis.
-* **Plotly**: Creating interactive data visualizations and dashboards.
+* **Plotly and Folim**: Creating interactive maps, data visualizations and dashboards.
 * **Machine Learning Methods**: Applying classification algorithms to predict launch outcomes such as logistic regression, SVM, decision tree and KNN.
 * **GitHub**: For version control and project management.
 

@@ -32,7 +32,7 @@ To achieve this, I gathered public information about SpaceX launches, created in
 * **Statistical Modeling**: Applying statistical concepts to the analysis.
 
 ### Technical
-* **Beatifulsoup**: Extracting data from websites.
+* **Beatifulsoup and requests**: Extracting data from websites.
 * **Pandas**: For data manipulation and analysis.
 * **Plotly**: Creating interactive data visualizations and dashboards.
 * **Machine Learning Methods**: Applying classification algorithms to predict launch outcomes such as logistic regression, SVM, decision tree and KNN.

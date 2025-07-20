@@ -15,11 +15,11 @@ To achieve this, I gathered public information about SpaceX launches, created in
 
 * **SQL**
 * **Python**
+* **Beautifulsoup**
 * **Scikit-learn**
 * **Folium**
 * **Plotly**
 * **GitHub**
-* **PowerPoint**
 
 ---
 ## 🧠 Skills Demonstrated
@@ -32,7 +32,7 @@ To achieve this, I gathered public information about SpaceX launches, created in
 * **Statistical Modeling**: Applying statistical concepts to the analysis.
 
 ### Technical
-* **Web Scraping**: Extracting data from websites.
+* **Beatifulsoup**: Extracting data from websites.
 * **Pandas**: For data manipulation and analysis.
 * **Plotly**: Creating interactive data visualizations and dashboards.
 * **Machine Learning Methods**: Applying classification algorithms to predict launch outcomes.

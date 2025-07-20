@@ -1,5 +1,6 @@
 # IBM Data Science Capstone Project: Predicting SpaceX Launch Success
----
+
+
 ## 🚀 Project Overview
 
 This repository contains the final project for the IBM Data Science Professional Certificate on Coursera. In this capstone, I took on the role of a data scientist for a new rocket company, "Space Y," aiming to compete with SpaceX. The primary goal of this project is to analyze SpaceX launch data to determine a competitive launch price and to predict whether the first stage of the rocket will be reused.

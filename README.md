@@ -1,5 +1,4 @@
-# IBM Data Science Capstone Project: 
-# Predicting SpaceX Launch Success
+# IBM Data Science Capstone Project: Predicting SpaceX Launch Success
 
 ## 🚀 Project Overview
 

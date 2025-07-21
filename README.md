@@ -6,7 +6,7 @@ This repository contains the final project for the IBM Data Science Professional
 
 To achieve this, I gathered public information about SpaceX launches, created interactive dashboards for the team, and built a machine learning model to predict the successful landing of the first stage. This data-driven approach allows Space Y to make informed decisions in a competitive market.
 
-<img width="3840" height="1757" alt="Untitled diagram _ Mermaid Chart-2025-07-21-155717" src="https://github.com/user-attachments/assets/050f16c4-19b9-41b6-8bbf-75bbddeb8366" />
+<img width="3840" height="1757" alt="Untitled diagram _ Mermaid Chart-2025-07-21-155919" src="https://github.com/user-attachments/assets/f8c3e0a3-e9f7-432c-84d5-4fd7fe2a759f" />
 
 
 ### Key Question:
